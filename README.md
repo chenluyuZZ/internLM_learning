@@ -1,2 +1,3 @@
 # internLM_learning
-internLM learning test
+
+### 个人的笔记仓库用于学习书生大模型
